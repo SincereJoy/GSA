@@ -1,2 +1,2 @@
 # GSA
-Code for the paper "IImproving Adversarial Transferability with Ghost Samples"
+Code for the paper "Improving Adversarial Transferability with Ghost Samples"
